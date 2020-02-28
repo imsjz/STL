@@ -113,7 +113,7 @@
 
   * 仍存在的问题：不是所有的迭代器都是class type，原生指针就不是。而STL必须接受原生指针作为一种迭代器。
 
-    解决：采用**偏特化（partial specialization）**的方法！
+    解决：采用 **偏特化(partial specialization)** 的方法！
 
   ---
 
